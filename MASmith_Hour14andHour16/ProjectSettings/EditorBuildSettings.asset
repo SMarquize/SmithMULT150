@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MSmith_Hour14.unity
     guid: 7e6e7494a80ad6a4bb32e34e56a54ad8
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/Game1.unity
     guid: 9d434f36c5a8e9c4f902c1e7c98f7964
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: f49a023e606bf2d4fa18326cc0abc66d
   m_configObjects: {}
